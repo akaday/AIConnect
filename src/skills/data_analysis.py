@@ -1,5 +1,5 @@
 # src/skills/data_analysis.py
-from tools.data_fetcher import DataFetcher
+from src.tools.data_fetcher import DataFetcher
 
 class DataAnalysisSkill:
     def __init__(self, api_url):
